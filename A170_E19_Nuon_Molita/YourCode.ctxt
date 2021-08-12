@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=YourCode()
+comment1.params=str
+comment1.target=void\ sectionA(java.lang.String)
+comment2.params=str
+comment2.target=void\ sectionB(java.lang.String)
+comment3.params=str1\ str2
+comment3.target=void\ sectionC(java.lang.String,\ java.lang.String)
+comment4.params=str1\ str2
+comment4.target=void\ sectionD(java.lang.String,\ java.lang.String)
+comment5.params=str
+comment5.target=void\ sectionE(java.lang.String)
+comment6.params=str
+comment6.target=void\ sectionF(java.lang.String)
+comment7.params=str
+comment7.target=void\ sectionG(java.lang.String)
+numComments=8
